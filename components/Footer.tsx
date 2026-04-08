@@ -66,9 +66,6 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-text-muted text-sm flex items-center gap-1.5 flex-wrap justify-center sm:justify-start">
             <span>© 2026 Srihariharan G.</span>
-            <span className="hidden sm:inline">·</span>
-            <span>Built with Next.js &amp;</span>
-            <Heart size={13} className="text-accent-violet fill-accent-violet" />
           </p>
 
           {/* Social icons */}
