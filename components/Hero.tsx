@@ -39,7 +39,7 @@ export default function Hero() {
 
           <motion.div variants={fadeUp(0.2)}>
             <p className="text-text-muted text-lg font-medium mb-2">Hi, I&apos;m</p>
-            <h1 className="font-display font-extrabold text-5xl sm:text-6xl lg:text-7xl leading-tight">
+            <h1 className="font-display font-extrabold text-4xl min-[420px]:text-5xl sm:text-6xl lg:text-7xl leading-tight whitespace-nowrap">
               <span className="gradient-text">Srihariharan G</span>
             </h1>
           </motion.div>
