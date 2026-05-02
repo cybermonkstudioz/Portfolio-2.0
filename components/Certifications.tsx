@@ -15,15 +15,6 @@ const certifications = [
     accent: 'text-accent-violet',
   },
   {
-    title: 'IoT Bootcamp Recognition',
-    issuer: 'KCG College of Technology',
-    year: '2025',
-    icon: '📡',
-    color: 'from-accent-sky/20 to-transparent',
-    border: 'border-accent-sky/30',
-    accent: 'text-accent-sky',
-  },
-  {
     title: 'Prompt Engineering Basics',
     issuer: 'GUVI HCL',
     year: '2024',
@@ -33,15 +24,6 @@ const certifications = [
     accent: 'text-violet-400',
   },
   {
-    title: 'Introduction to IoT',
-    issuer: 'NPTEL',
-    year: '2025',
-    icon: '🌐',
-    color: 'from-cyan-500/20 to-transparent',
-    border: 'border-cyan-500/30',
-    accent: 'text-cyan-400',
-  },
-  {
     title: 'Linguistic Skills CFER Level B1',
     issuer: 'Cambridge English',
     year: '2024',
@@ -49,6 +31,24 @@ const certifications = [
     color: 'from-accent-violet/20 to-transparent',
     border: 'border-accent-violet/30',
     accent: 'text-accent-violet',
+  },
+  {
+    title: 'IoT Bootcamp Recognition',
+    issuer: 'KCG College of Technology',
+    year: '2025',
+    icon: '📡',
+    color: 'from-accent-sky/20 to-transparent',
+    border: 'border-accent-sky/30',
+    accent: 'text-accent-sky',
+  },
+  {
+    title: 'Introduction to IoT',
+    issuer: 'NPTEL',
+    year: '2025',
+    icon: '🌐',
+    color: 'from-cyan-500/20 to-transparent',
+    border: 'border-cyan-500/30',
+    accent: 'text-cyan-400',
   },
 ]
 
